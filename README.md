@@ -7,9 +7,9 @@
 
 ## 🧩 About Me
 
-I'm a MEL Specialist with over 10 years of experience supporting U.S. government-funded and international programs. I design and manage MEL systems, develop data visualization tools, and conduct performance assessments to strengthen program outcomes.
+I'm a MEL Specialist with over 10 years of experience supporting U.S. government-funded and international programs. I design and manage MEL systems, develop databases and data visualization tools, and conduct performance assessments to strengthen program outcomes.
 
-I've worked with organizations including **ECDC (U.S. Dept. of State)**, **UNFPA**, **USAID projects** (ME&A, DAI, FHI360, University of Massachusetts  Virginia Tech), and others. My expertise spans health, education, agriculture, refguee resetlement, women empowerment, private sector and humanitarian programs.
+I've worked with organizations including **ECDC (U.S. Dept. of State)**, **UNFPA**, **USAID projects** (ME&A, DAI, FHI360, University of Massachusetts and Virginia Tech University), and others. My expertise spans health, education, agriculture, refguee resetlement, women empowerment, private sector and humanitarian programs.
 
 ---
 
